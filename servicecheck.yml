@@ -12,4 +12,4 @@ spring:
   jmx:
     enabled: false
     
-application.resource.message : This is the First Message From Remote 1.1 !
+application.resource.message : This is the First Message From Remote 2.1 !
